@@ -1,0 +1,12 @@
+
+usb block device driver:
+
+usb part:
+	register/unregister usb mechanism
+
+block part
+	transmit / receive urb
+	parse FAT file system
+
+memory mapping and dma
+
